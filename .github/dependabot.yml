@@ -8,11 +8,11 @@ updates:
   directory: "/"
   schedule:
     interval: daily
-    time: "09:00"
+    time: "10:35"
     timezone: Etc/UCT
   reviewers:
   - flovogt
   versioning-strategy: increase
   commit-message:
-    prefix: "[DEPENDENCY]"
-    prefix-development: "[INTERNAL]"
+    prefix: "[DEPENDENCY] "
+    prefix-development: "[INTERNAL] "
