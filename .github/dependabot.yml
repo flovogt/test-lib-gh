@@ -1,18 +1,18 @@
-version: 2
-updates:
-- package-ecosystem: "github-actions"
-  directory: "/"
-  schedule:
-    interval: "daily"
-- package-ecosystem: npm
-  directory: "/"
-  schedule:
-    interval: daily
-    time: "10:35"
-    timezone: Etc/UCT
-  reviewers:
-  - flovogt
-  versioning-strategy: increase
-  commit-message:
-    prefix: "[DEPENDENCY] "
-    prefix-development: "[INTERNAL] "
+# version: 2
+# updates:
+# - package-ecosystem: "github-actions"
+#   directory: "/"
+#   schedule:
+#     interval: "daily"
+# - package-ecosystem: npm
+#   directory: "/"
+#   schedule:
+#     interval: daily
+#     time: "10:35"
+#     timezone: Etc/UCT
+#   reviewers:
+#   - flovogt
+#   versioning-strategy: increase
+#   commit-message:
+#     prefix: "[DEPENDENCY] "
+#     prefix-development: "[INTERNAL] "
