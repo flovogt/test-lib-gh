@@ -17,4 +17,3 @@ updates:
   commit-message:
     prefix: "[DEPENDENCY]"
     prefix-development: "[INTERNAL]"
-    include: "scope"
