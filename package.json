@@ -1,0 +1,27 @@
+{
+  "name": "test-lib-gh",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "The Test-Lib regarding gh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flovogt/test-lib-gh.git"
+  },
+  "engines": {
+    "node": ">= 16",
+    "npm": ">= 8"
+  },
+  "dependencies": {
+    "lodash": "^4.0.0"
+  },
+  "devDependencies": {
+    "replace-in-file": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Thats my test\" && exit 0"
+  },
+  "files": [
+    "src/*.js",
+    "LICENSE"
+  ]
+}
