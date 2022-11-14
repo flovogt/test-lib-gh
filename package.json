@@ -12,7 +12,7 @@
     "npm": ">= 8"
   },
   "dependencies": {
-    "lodash": "^3.0.0"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "local-web-server": "^4.0.0"
