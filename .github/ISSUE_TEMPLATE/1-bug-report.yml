@@ -3,8 +3,7 @@ description: Report an issue with OpenUI5
 body:
   - type: markdown
     attributes:
-      value: |
-        Hey there 👋 Please have a look at our [contributing guidelines](https://github.com/SAP/openui5/blob/main/CONTRIBUTING.md#report-bugs) on reporting issues.
+      value: Hey there 👋 Please have a look at our [contributing guidelines](https://github.com/SAP/openui5/blob/main/CONTRIBUTING.md#report-bugs) on reporting issues.
   - type: textarea
     id: expected-behavior
     attributes:
