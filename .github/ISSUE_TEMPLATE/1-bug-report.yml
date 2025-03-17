@@ -1,6 +1,5 @@
 name: Bug Report
 description: Report an issue with OpenUI5
-type: Bug
 body:
   - type: markdown
     attributes:
